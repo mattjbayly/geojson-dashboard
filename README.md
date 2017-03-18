@@ -1,3 +1,8 @@
+# Bryan McBride's geojson-dashboard project - for PHP
+
+This amazing project was originally created by Bryan McBride (Niskayuna, NY) and forked into this repository. The purpose of this fork is to reconfigure some of the geojson import settings & hook it up to PHP with AJAX requests. I just started working with these files March 17th 2017 – just for fun. I also hope to address some very very minor style issues with original content & send a pull request back to Bryan. If you’re reading this … I still haven’t really done anything with the project yet & will try to make changes soon.
+
+
 # geojson-dashboard
 A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
 
